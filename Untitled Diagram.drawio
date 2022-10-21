@@ -1,9 +1,166 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T07:01:49.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="H6cNGBuG_pckmcrlDV8C" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T07:41:22.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5rkfPl2Q5qnwOegoB8IG" version="20.4.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="510" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;endArrow=block;endFill=0;" edge="1" parent="1" target="KeSHr-zNQcG-AkEUOenZ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="35" y="70" />
+              <mxPoint x="95" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-2" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-3" value="UC-4 login" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=block;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" target="KeSHr-zNQcG-AkEUOenZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="120" y="330" />
+              <mxPoint x="120" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-4" value="Parking &lt;br&gt;Attendant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-5" target="KeSHr-zNQcG-AkEUOenZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-6" target="KeSHr-zNQcG-AkEUOenZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="530" />
+              <mxPoint x="660" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Payment Processing &lt;br&gt;System&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Car Park Management System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=openThin;endFill=0;dashed=1;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-9" target="KeSHr-zNQcG-AkEUOenZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-9" value="register vehicle" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;endArrow=openThin;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-10" target="KeSHr-zNQcG-AkEUOenZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-10" value="register e wallet account" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-15" target="KeSHr-zNQcG-AkEUOenZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-15" value="UC-1 register account&lt;br&gt;&lt;b&gt;extension points&lt;/b&gt;&lt;br&gt;register vehicle&lt;br&gt;register e wallet account&lt;br&gt;manage credit card info" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="210" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=12;endArrow=openThin;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-16" target="KeSHr-zNQcG-AkEUOenZ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="270" />
+              <mxPoint x="430" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;endArrow=openThin;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-16" target="KeSHr-zNQcG-AkEUOenZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-16" value="manage credit card info" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-17" value="UC-2 manage user account&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22register%20e%20wallet%20account%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3BgradientColor%3D%237ea6e0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22550%22%20y%3D%22140%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;endArrow=openThin;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-18" target="KeSHr-zNQcG-AkEUOenZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="465" />
+              <mxPoint x="90" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-18" value="UC-3 manage payment by cash" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-19" value="calculate total fee" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=12;endArrow=openThin;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-20" target="KeSHr-zNQcG-AkEUOenZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="535" />
+              <mxPoint x="140" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-20" value="UC-20 pay by &lt;br&gt;e-payment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=block;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-21" target="KeSHr-zNQcG-AkEUOenZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-21" value="pay by e-wallet" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.655;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;endArrow=block;endFill=0;" edge="1" parent="1" source="KeSHr-zNQcG-AkEUOenZ-22" target="KeSHr-zNQcG-AkEUOenZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-22" value="pay by credit card" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-26" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="420" y="135" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="340" y="490" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KeSHr-zNQcG-AkEUOenZ-28" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
