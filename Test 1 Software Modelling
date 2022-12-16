@@ -1,16 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T11:41:04.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="7Pf7UhQWWqF2a1ljq5fK" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T12:33:39.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="9z9wHd9x0i980M2cCLhU" type="github">
   <diagram id="uIxg6y3Hy4yvZDsXN3pQ" name="Page-1">
-    <mxGraphModel dx="1300" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="758" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fm7J2gWH_LVtHInUN4Y2-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="280" width="160" height="90" as="geometry" />
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fm7J2gWH_LVtHInUN4Y2-10" target="fm7J2gWH_LVtHInUN4Y2-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="263" />
+              <mxPoint x="460" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Customer&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- name&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- phoneNumber&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- address&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- emailAddress&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ makePayment()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+subscribeMobilePlan()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ unsubscribeMobilePlan()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ addAccount()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ deleteAccount()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="172.5" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="fm7J2gWH_LVtHInUN4Y2-12" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="88.75" y="60" width="22.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fm7J2gWH_LVtHInUN4Y2-13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-13" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fm7J2gWH_LVtHInUN4Y2-15" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#1A1A1A;rotation=-180;" vertex="1" parent="1">
@@ -21,6 +29,30 @@
         </mxCell>
         <mxCell id="fm7J2gWH_LVtHInUN4Y2-18" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="58.75" y="90" width="22.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fm7J2gWH_LVtHInUN4Y2-24" target="fm7J2gWH_LVtHInUN4Y2-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Account&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- accountID&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- paymentHistory&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- mobilePlanID&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="215" width="150" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-26" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-27" value="1..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-28" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="270" width="22.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-29" value="has" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-31" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Mobile Plan&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- mobilePlanID&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- status&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- fixedMonthlyFee&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-33" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#1A1A1A;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="22.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
