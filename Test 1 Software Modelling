@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T13:00:00.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="Ss0kknyfFxo8egRdY5Hx" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T13:03:28.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="JEq2jrZZeMZuu9k-uyK0" type="github">
   <diagram id="uIxg6y3Hy4yvZDsXN3pQ" name="Page-1">
     <mxGraphModel dx="2250" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,8 +138,11 @@
         <mxCell id="fm7J2gWH_LVtHInUN4Y2-59" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Bill&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- fee&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- dueDate&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- callList&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="5" width="150" height="115" as="geometry" />
         </mxCell>
+        <mxCell id="fm7J2gWH_LVtHInUN4Y2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fm7J2gWH_LVtHInUN4Y2-61" target="fm7J2gWH_LVtHInUN4Y2-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fm7J2gWH_LVtHInUN4Y2-61" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Payment&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="30" width="140" height="70" as="geometry" />
+          <mxGeometry x="175" y="40" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
