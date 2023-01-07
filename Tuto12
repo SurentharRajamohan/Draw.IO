@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T14:24:34.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.2" etag="SxHCvK_H1ut06zKQc77n" type="github"><diagram id="Y8-fbQ8MxWiC5hV6pDj6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-07T15:17:20.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.2" etag="A4B9JXKj2v7lk6pq1-YC" type="github">
+  <diagram id="WTE6fWxsF6FOjkAJe8Ar" name="Page-1">
+    <mxGraphModel dx="1846" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hoNy94mvd-BhjXhjceib-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hoNy94mvd-BhjXhjceib-1" target="hoNy94mvd-BhjXhjceib-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hoNy94mvd-BhjXhjceib-3" target="hoNy94mvd-BhjXhjceib-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-3" value="Unregistered" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="95" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hoNy94mvd-BhjXhjceib-5" target="hoNy94mvd-BhjXhjceib-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-5" value="Registered&lt;br&gt;&lt;br&gt;do/choose room&lt;br&gt;exit/save" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="95" y="560" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hoNy94mvd-BhjXhjceib-6" target="hoNy94mvd-BhjXhjceib-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hoNy94mvd-BhjXhjceib-6" target="hoNy94mvd-BhjXhjceib-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="425" />
+              <mxPoint x="235" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-6" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-8" value="register(username, password)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="520" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-10" value="verified = true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="475" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-12" value="verified = false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hoNy94mvd-BhjXhjceib-14" target="hoNy94mvd-BhjXhjceib-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-14" value="Unpaid&lt;br&gt;&lt;br&gt;entry/choose payment option&lt;br&gt;do/make payment&lt;br&gt;exit/enter TAC number" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="555" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-16" value="book(quantity,duration)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="580" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-19" value="display(transactionDetails)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hoNy94mvd-BhjXhjceib-20" target="hoNy94mvd-BhjXhjceib-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-20" value="Paid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="hoNy94mvd-BhjXhjceib-22" target="hoNy94mvd-BhjXhjceib-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-22" value="CheckedIn&lt;br&gt;&lt;br&gt;entry/QR code and IC&lt;br&gt;do/scan QR code&lt;br&gt;exit/receive key" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="395" y="220" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-24" value="[got booking QR code]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="hoNy94mvd-BhjXhjceib-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-25" value="CheckedOut&lt;br&gt;&lt;br&gt;entry/scan room-key QR&lt;br&gt;do/check payment&lt;br&gt;exit/set availability" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="395" y="40" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-27" value="[got room-key]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="205" y="85" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hoNy94mvd-BhjXhjceib-31" value="sendEmail(customer)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="70" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
