@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T06:28:20.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-Ej86MxARPK1915VLuNM" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T06:31:12.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="jmGkGJy8d4GxxLcIkL1a" version="20.8.8" type="github">
   <diagram name="Page-1" id="-Y0WAXS_oIeS29KTr4av">
-    <mxGraphModel dx="1436" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,64 +71,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-42" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Appointment&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="730" width="140" height="60" as="geometry" />
+          <mxGeometry x="520" y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-43" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Lawyers&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="730" width="140" height="60" as="geometry" />
+          <mxGeometry x="760" y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="yRqJBC5KIPpiqotfuaKN-45" target="yRqJBC5KIPpiqotfuaKN-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-45" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Appointment&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="820" width="140" height="60" as="geometry" />
+          <mxGeometry x="520" y="190" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-46" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Clerk&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="820" width="140" height="60" as="geometry" />
+          <mxGeometry x="760" y="190" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="yRqJBC5KIPpiqotfuaKN-48" target="yRqJBC5KIPpiqotfuaKN-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-48" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Clients&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="910" width="140" height="60" as="geometry" />
+          <mxGeometry x="520" y="280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-49" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Client Accounts&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="910" width="140" height="60" as="geometry" />
+          <mxGeometry x="760" y="280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="yRqJBC5KIPpiqotfuaKN-51" target="yRqJBC5KIPpiqotfuaKN-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-51" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Client_Accountant&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1000" width="140" height="60" as="geometry" />
+          <mxGeometry x="520" y="370" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-52" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Client Accounts&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1000" width="140" height="60" as="geometry" />
+          <mxGeometry x="760" y="370" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="yRqJBC5KIPpiqotfuaKN-54" target="yRqJBC5KIPpiqotfuaKN-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-54" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Client_Accountant&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1090" width="140" height="60" as="geometry" />
+          <mxGeometry x="520" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-55" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Accountants&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1090" width="140" height="60" as="geometry" />
+          <mxGeometry x="760" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="yRqJBC5KIPpiqotfuaKN-57" target="yRqJBC5KIPpiqotfuaKN-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-57" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Office_Accountant&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1180" width="140" height="60" as="geometry" />
+          <mxGeometry x="520" y="550" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-58" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Accountants&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1180" width="140" height="60" as="geometry" />
+          <mxGeometry x="760" y="550" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="yRqJBC5KIPpiqotfuaKN-60" target="yRqJBC5KIPpiqotfuaKN-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-60" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Office_Accountant&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1270" width="140" height="60" as="geometry" />
+          <mxGeometry x="520" y="640" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yRqJBC5KIPpiqotfuaKN-61" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Office Accounts&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1270" width="140" height="60" as="geometry" />
+          <mxGeometry x="760" y="640" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
