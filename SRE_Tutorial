@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T14:21:17.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.10" etag="pv1MIaWx4slbJpj0a8FO" type="github"><diagram name="Page-1" id="dAHN4KFkqiauwvp5o2Hh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-26T14:34:38.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-_unXjqy5LLy16arK-ld" version="21.0.10" type="github" pages="2">
+  <diagram name="Page-1" id="dAHN4KFkqiauwvp5o2Hh">
+    <mxGraphModel dx="2412" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5QnMjzclNPMIU1JMfnDm-1" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="280" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="5QnMjzclNPMIU1JMfnDm-3" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&#xa;mso-fareast-font-family:Arial&quot;&gt;System 1 – Online shopping&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp; &lt;/span&gt;System &lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;span style=&quot;font-size:11.0pt;line-height:115%;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&#xa;mso-fareast-font-family:Arial;mso-ansi-language:EN-MY;mso-fareast-language:&#xa;EN-MY;mso-bidi-language:AR-SA&quot;&gt;A popular shopping complex TRX has decided to&#xa;provide an online shopping system to facilitate its customers to do shopping&#xa;anywhere and at anytime. The system shall enable the customer to search through&#xa;its products , make an order , request for delivery services and make payment&#xa;online. The delivery system has to receive the order and make relevant products&#xa;delivery to the customers. The payment can be made through the external payment&#xa;system has to cooperate with this online system. &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="120" width="900" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-1" value="Online Shopping System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="115" y="100" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="okJIPYfR5cC5J6c1Qkx1-2" target="okJIPYfR5cC5J6c1Qkx1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="okJIPYfR5cC5J6c1Qkx1-2" target="okJIPYfR5cC5J6c1Qkx1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="okJIPYfR5cC5J6c1Qkx1-2" target="okJIPYfR5cC5J6c1Qkx1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-2" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-3" value="Search product" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-4" value="Make an order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="okJIPYfR5cC5J6c1Qkx1-5" target="okJIPYfR5cC5J6c1Qkx1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-5" value="Request delivery&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-6" value="Make online payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="okJIPYfR5cC5J6c1Qkx1-7" target="okJIPYfR5cC5J6c1Qkx1-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="320" />
+              <mxPoint x="130" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okJIPYfR5cC5J6c1Qkx1-7" value="External Payment System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="r6i6r_cXon-WgPu4K_2V" name="Page-2">
+    <mxGraphModel dx="1562" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G8DECkzmzO04kMmIH8hl-1" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="400" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="G8DECkzmzO04kMmIH8hl-2" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&#xa;mso-fareast-font-family:Arial&quot;&gt;System 2 – E-Ticketing System &lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&#xa;mso-fareast-font-family:Arial&quot;&gt;A&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp; &lt;/span&gt;Leisure&#xa;Bus company has decided to offer its customers services through its online&#xa;ticketing system. &lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&#xa;mso-fareast-font-family:Arial&quot;&gt;This will include ordering, provision of&#xa;searching for several destination at various time and days. It enables the&#xa;customer to send queries to the bus,&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&#xa;&lt;/span&gt;book for the ticket,&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp; &lt;/span&gt;purchase the&#xa;ticket and cancel the ticket. &lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&#xa;mso-fareast-font-family:Arial&quot;&gt;After a system user registers and becomes a&#xa;valid user, a registered user can perform all the above services which include&#xa;searching for destinations, book the ticket, purchase the ticket and cancel the&#xa;ticket if necessary. The registered user can also print&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp; &lt;/span&gt;their ticket to be used as evidence of the&#xa;ticket purchase. &lt;/span&gt;&lt;/p&gt;&#xa;&#xa;&lt;a name=&quot;_heading=h.gjdgxs&quot;&gt;&lt;/a&gt;&lt;span style=&quot;font-size:11.0pt;line-height:115%;&#xa;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:Arial;mso-ansi-language:&#xa;EN-MY;mso-fareast-language:EN-MY;mso-bidi-language:AR-SA&quot;&gt;The system will keep&#xa;track of each registered user and will be able to&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp; &lt;/span&gt;keep track of their previous purchase&#xa;record.&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp; &lt;/span&gt;The registered user will receive&#xa;a certain&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp; &lt;/span&gt;discount offer if they have&#xa;done more than 10 tickets within one year&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="560" height="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
