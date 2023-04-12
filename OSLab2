@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T06:45:58.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Fja5gYVQWX_u-e-HAvFy" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T06:48:37.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="U2EwrWjsTI0Fpjj3pNiS" version="21.1.5" type="github">
   <diagram name="Page-1" id="EZ4KPVurZJjFn1BUoMZk">
     <mxGraphModel dx="1562" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,8 +23,8 @@
             <mxPoint x="269.9999999999999" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-4" value="Enter burst time for each process" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="168.75" y="370" width="202.5" height="100" as="geometry" />
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-4" value="Enter burst time and arrival time for each process" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="139.38" y="370" width="261.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Rqz2-C2497t_NBJ0Iap5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rqz2-C2497t_NBJ0Iap5-7" edge="1">
           <mxGeometry relative="1" as="geometry">
