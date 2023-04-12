@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T09:15:01.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="CVpDotHlDIgY0cGpRG1l" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T06:45:58.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Fja5gYVQWX_u-e-HAvFy" version="21.1.5" type="github">
   <diagram name="Page-1" id="EZ4KPVurZJjFn1BUoMZk">
-    <mxGraphModel dx="985" dy="1347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rqz2-C2497t_NBJ0Iap5-1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rqz2-C2497t_NBJ0Iap5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="210" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rqz2-C2497t_NBJ0Iap5-3" target="Rqz2-C2497t_NBJ0Iap5-4">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Rqz2-C2497t_NBJ0Iap5-3" target="Rqz2-C2497t_NBJ0Iap5-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-3" value="Enter number of processes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-3" value="Enter number of processes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="168.75" y="240" width="202.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rqz2-C2497t_NBJ0Iap5-4">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rqz2-C2497t_NBJ0Iap5-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="269.9999999999999" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-4" value="Enter burst time for each process" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-4" value="Enter burst time for each process" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="168.75" y="370" width="202.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rqz2-C2497t_NBJ0Iap5-7">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rqz2-C2497t_NBJ0Iap5-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="630" as="targetPoint" />
             <Array as="points">
@@ -35,13 +35,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-7" value="Sort the array in ascending order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-7" value="Sort the array in ascending order" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="520" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-10" value="Calculate the waiting time for each process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-10" value="Calculate the waiting time for each process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="630" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="740" as="targetPoint" />
             <mxPoint x="270" y="700" as="sourcePoint" />
@@ -51,10 +51,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-13" value="Calculate the turn around time for each process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-13" value="Calculate the turn around time for each process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="740" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="850" as="targetPoint" />
             <mxPoint x="270" y="810" as="sourcePoint" />
@@ -64,10 +64,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-15" value="Calculate the average waiting time and average turn around time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-15" value="Calculate the average waiting time and average turn around time" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="850" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="960" as="targetPoint" />
             <mxPoint x="270" y="920" as="sourcePoint" />
@@ -77,19 +77,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.536;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Rqz2-C2497t_NBJ0Iap5-17" target="Rqz2-C2497t_NBJ0Iap5-18">
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.536;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="Rqz2-C2497t_NBJ0Iap5-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="272" y="1050" />
-              <mxPoint x="272" y="1050" />
+              <mxPoint x="272" y="1081" />
+              <mxPoint x="272" y="1081" />
             </Array>
+            <mxPoint x="271.8399999999999" y="1061.14" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-17" value="Print out the waiting time and turn around time for each process&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="960" width="190" height="70" as="geometry" />
+        <mxCell id="Rqz2-C2497t_NBJ0Iap5-18" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1101" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rqz2-C2497t_NBJ0Iap5-18" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="rxtf_vvYp01O6oUNdPiK-2" value="Print out the waiting time and turn around time for each process&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="163.75" y="960" width="202.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
